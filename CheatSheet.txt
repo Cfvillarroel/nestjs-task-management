@@ -5,3 +5,5 @@ nest g controller name --no-spec
 nest g service name --no-spec
 
 inject the service into the controller*
+
+for unique ids: npm install --save uuid
