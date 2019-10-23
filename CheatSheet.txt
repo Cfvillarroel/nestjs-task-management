@@ -11,3 +11,6 @@ for unique ids: npm install --save uuid
 For Pipes
 npm install class-validator class-transformer --save
 https://github.com/typestack/class-validator#validation-decorators
+
+Type ORM
+npm install --save @nestjs/typeorm typeorm pg
