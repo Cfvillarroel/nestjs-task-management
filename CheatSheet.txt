@@ -16,3 +16,9 @@ Type ORM
 npm install --save @nestjs/typeorm typeorm pg
 http://typeorm.delightful.studio/classes/_repository_repository_.repository.html#findone
 
+All the querys and db consults should be in the repository.ts. using an Injection
+
+Auth
+nest g module auth
+nest g controller auth --no-spec
+nest g service auth --no-spec
