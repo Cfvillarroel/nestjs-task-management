@@ -14,3 +14,5 @@ https://github.com/typestack/class-validator#validation-decorators
 
 Type ORM
 npm install --save @nestjs/typeorm typeorm pg
+http://typeorm.delightful.studio/classes/_repository_repository_.repository.html#findone
+
