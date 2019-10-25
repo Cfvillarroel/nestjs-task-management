@@ -35,3 +35,7 @@ https://github.com/nestjs/jwt
 https://github.com/nestjs/passport
 
 npm install --save @nestjs/jwt @nestjs/passport passport passport-jwt
+
+Site to insert JWT
+https://jwt.io/
+//Usar interface porque se va a usar transversalmente.
