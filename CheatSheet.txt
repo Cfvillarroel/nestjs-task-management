@@ -26,3 +26,6 @@ nest g service auth --no-spec
 Password validation
 https://gist.github.com/arielweinberger/18a29bfa17072444d45adaeeb8e92ddc
 @Matches(/((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$/)
+
+Encrypt Passwords
+npm install bcrypt --save
