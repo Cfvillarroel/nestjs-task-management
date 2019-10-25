@@ -29,3 +29,9 @@ https://gist.github.com/arielweinberger/18a29bfa17072444d45adaeeb8e92ddc
 
 Encrypt Passwords
 npm install bcrypt --save
+
+JWT and PassportJS (middleware)
+https://github.com/nestjs/jwt
+https://github.com/nestjs/passport
+
+npm install --save @nestjs/jwt @nestjs/passport passport passport-jwt
