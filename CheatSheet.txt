@@ -46,3 +46,8 @@ Windows: Environment Variables
 npm install -g win-node-env
 
 npm install config
+
+Run with environment Variables
+PORT=3005 npm run start:dev
+
+default.yml is available in all environments
