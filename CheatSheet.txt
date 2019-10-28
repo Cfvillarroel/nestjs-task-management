@@ -39,3 +39,10 @@ npm install --save @nestjs/jwt @nestjs/passport passport passport-jwt
 Site to insert JWT
 https://jwt.io/
 //Usar interface porque se va a usar transversalmente.
+
+Logger: https://docs.nestjs.com/techniques/logger
+
+Windows: Environment Variables
+npm install -g win-node-env
+
+npm install config
