@@ -57,3 +57,6 @@ npm uninstall bcrypt
 npm install bcryptjs --save
 
 Modify user.entity.ts and user.repository.ts
+
+Before Deploying to Production
+npm run prestart:prod
