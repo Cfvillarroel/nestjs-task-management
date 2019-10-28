@@ -51,3 +51,9 @@ Run with environment Variables
 PORT=3005 npm run start:dev
 
 default.yml is available in all environments
+
+Modify bcrupt for production or will fail
+npm uninstall bcrypt
+npm install bcryptjs --save
+
+Modify user.entity.ts and user.repository.ts
